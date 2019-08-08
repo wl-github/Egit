@@ -10,8 +10,9 @@ public class Demo1 {
 		for (int i : arr) {
 			System.out.println(i);
 		}*/
-		Scanner sc = new Scanner(System.in);
-		int a = sc.nextInt();
+		/*Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();*/
+		System.out.println("hello");
 	}
 
 }
